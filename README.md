@@ -1,4 +1,8 @@
 # Assignment 4 – Breast Cancer Classification using K-Nearest Neighbors (KNN)
+# Name- Aarya Shirsath
+# Reg no- 23BCE10884
+# Application no. - IN26011842
+# Batch - 1A(AI/ML)
 
 ## Objective
 A healthcare organization wants to predict whether a breast tumor is **Malignant (M)** or **Benign (B)** based on diagnostic measurements. This project builds a **K-Nearest Neighbors (KNN)** classification model (K = 5) to classify tumors accurately.
