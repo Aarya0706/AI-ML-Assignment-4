@@ -1,0 +1,14 @@
+# Dataset (per assignment instructions - do not upload)
+breast_cancer_data.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
